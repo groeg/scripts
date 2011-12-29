@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phonebook>
+	<entries>
+		<entry>
+			<extension>90100</extension>
+			<name>Adrian</name>
+			<phonetype>0</phonetype>
+		</entry>
+		<entry>
+			<extension>90200</extension>
+			<name>Bert</name>
+			<phonetype>0</phonetype>
+		</entry>
+		<entry>
+			<extension>90300</extension>
+			<name>Christian</name>
+			<phonetype>20</phonetype>
+		</entry>
+</phonebook>
